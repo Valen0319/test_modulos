@@ -1,8 +1,6 @@
 import info from './calculadora.js';
 import { suma, resta, multiplicacion, division } from './calculadora.js';
 
-
-
 function calcular(operacion, a, b) {
 
     let resultado;
@@ -27,7 +25,7 @@ function calcular(operacion, a, b) {
 }
 
 info();
-// Ejemplo de uso de la calculadora
+
 calcular("suma", 10, 5);
 calcular("resta", 20, 8);
 calcular("multiplicacion", 4, 7);
