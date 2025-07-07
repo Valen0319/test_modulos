@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Valen0319/test_modulos/issues"
   },
-  "homepage": "https://github.com/Valen0319/test_modulos#readme"
+  "homepage": "https://github.com/Valen0319/test_modulos#readme",
+  "dependencies": {
+    "random": "^5.4.0"
+  }
 }
